@@ -1,4 +1,4 @@
-# react-ts-zsthca
+# react-ts-addfuninappmultipletimes
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-zsthca)
 
