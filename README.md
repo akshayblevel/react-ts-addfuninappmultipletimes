@@ -1,7 +1,5 @@
 # react-ts-addfuninappmultipletimes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-zsthca)
-
 ```js
 import React from 'react';
 
